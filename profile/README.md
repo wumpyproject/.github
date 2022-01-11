@@ -1,9 +1,15 @@
-<p align="center">
-  <h1>The Wumpy project</h1>
+<h1 align="center">The Wumpy project</h1>
 
-  ![Total organization stars](https://img.shields.io/github/stars/wumpyproject?color=22272e&logo=github&style=flat-square)
-  ![Main repository issues](https://img.shields.io/github/issues/wumpyproject/wumpy?color=22272e&logo=github&style=flat-square)
-  ![Main repository PRs](https://img.shields.io/github/issues-pr/wumpyproject/wumpy?color=22272e&logo=github&style=flat-square)
+<p align="center">
+  <a href="https://github.com/wumpyproject">
+    <img src="https://img.shields.io/github/stars/wumpyproject?color=22272e&logo=github&style=flat-square" alt="Total organization stars" />
+  </a>
+  <a href="https://github.com/wumpyproject/wumpy">
+    <img src="https://img.shields.io/github/issues/wumpyproject/wumpy?color=22272e&logo=github&style=flat-square" alt="Main repository issues" />
+  </a>
+  <a href="https://github.com/wumpyproject/wumpy">
+    <img src="https://img.shields.io/github/issues-pr/wumpyproject/wumpy?color=22272e&logo=github&style=flat-square" alt="Main repository PRs" />
+  </a>
 </p>
 
 The Wumpy project is a collection of subpackages under the `wumpy` namespace
