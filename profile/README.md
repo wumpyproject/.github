@@ -46,6 +46,7 @@ project you wish to contribute to. The `wumpy` is a monorepository that holds
 all the core parts of the project that closely implement the Discord API, all
 other repositories are other useful subpackages for different purposes.
 
-Unlike many other projects, Wumpy accept all kinds of contributions such as
-smaller documentation or cosmetic changes to larger features and changes.
-If you are unsure open a GitHub Issue or Discussion about it! ❤️
+Unlike many other projects, all Wumpy repositories accept all kinds of
+contributions such as smaller documentation or cosmetic changes to larger
+features and changes. If you are unsure open a GitHub Issue or Discussion
+about it so that we can discuss it! ❤️
