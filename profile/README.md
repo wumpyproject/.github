@@ -39,6 +39,9 @@ for interacting with the Discord API.
 Take a look at the [organization project](https://github.com/orgs/wumpyproject/projects/1)
 to follow the development of the Wumpy project.
 
+Feel free to join the development [Discord server](https://discord.gg/ZWpjYdKKTF)
+and chat! 👥
+
 ## Contributing
 
 Take a look at the specific contributing guide depending on what part of the
